@@ -1,5 +1,7 @@
 # A/B-testing-conversions
 
+Note: The complete implementation details and reasoning behind each step can be found in the notebook.
+
 ## Why A/B Testing Matters
 Data-Driven Decision Making: Rather than relying on intuition or assumptions about what users might prefer, A/B testing provides tangible evidence of actual user behavior and preferences. This approach ensures that product decisions are grounded in reality rather than speculation, significantly reducing the risk of implementing changes that could negatively impact user engagement or business metrics.
 
